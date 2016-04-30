@@ -1,0 +1,19 @@
+{
+  "name": "toc",
+  "version": "0.3.2",
+  "filename": "toc.min.js",
+  "description": "TOC is a jQuery plugin for automatically generating a table of contents.",
+  "homepage": "http://projects.jga.me/toc/",
+  "license": "MIT",
+  "keywords": [
+    "table of content",
+    "toc"
+  ],
+  "author": "Greg Allen ",
+  "bugs": "https://github.com/jgallen23/toc/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgallen23/toc.git"
+  }
+  
+}
