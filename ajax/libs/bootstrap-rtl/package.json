@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-rtl",
+  "filename": "css/bootstrap-rtl.min.css",
+  "description": "Right-to-left (RTL) support for Boostrap 3.x. Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap 3, by employing new theming feature of it. Simply put its CSS after bootstrap's original CSS, to the pages designed by Bootstrap 3. It works just like an extension on top of the original Bootstrap.",
+  "version": "3.3.4",
+  "homepage": "https://github.com/morteza/bootstrap-rtl",
+  "author": "Morteza Ansarinia <ansarinia@me.com>",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "rtl",
+    "css",
+    "persian",
+    "farsi",
+    "arabic",
+    "hebrew",
+    "theme"
+  ],
+  "license": {
+    "type": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "url": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morteza/bootstrap-rtl.git"
+  }
+}
