@@ -1,5 +1,5 @@
 {
-  "name": "echo-js",
+  "name": "echo.js",
   "version": "1.7.3",
   "description": "Lazy-loading with data-* attributes, offset and throttle options",
   "author": "@toddmotto",
