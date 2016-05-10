@@ -1,0 +1,8 @@
+{
+  "packageManager": "npm",
+  "name": "echo-js",
+  "repo": "toddmotto/echo",
+  "files": {
+    "include": ["dist/*"]
+  }
+}
