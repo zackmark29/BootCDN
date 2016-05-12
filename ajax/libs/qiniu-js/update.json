@@ -1,0 +1,8 @@
+{
+  "packageManager": "bower",
+  "name": "qiniu",
+  "repo": "qiniu/js-sdk",
+  "files": {
+    "include": ["dist/*"]
+  }
+}
