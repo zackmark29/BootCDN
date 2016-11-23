@@ -1,0 +1,19 @@
+{
+    "name": "autobahn",
+    "version": "0.11.1",
+    "description": "An implementation of The Web Application Messaging Protocol (WAMP).",
+    "filename": "autobahn.min.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/crossbario/autobahn-js.git"
+    },
+    "homepage": "http://crossbar.io/autobahn",
+    "keywords": [
+        "WAMP",
+        "WebSocket",
+        "RPC",
+        "PubSub"
+    ],
+    "author": "Crossbar.io Technologies GmbH",
+    "license": "MIT"
+}
