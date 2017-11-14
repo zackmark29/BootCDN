@@ -1,6 +1,6 @@
 {
   "name": "layer",
-  "version": "3.0.3",
+  "version": "3.1.0",
   "filename": "layer.js",
   "description": "Cross-end web layer tool",
   "repository": {
