@@ -122,7 +122,7 @@
         shade: .3,
         fixed: !0,
         move: l[1],
-        title: "Close Button",
+        title: "&#x4FE1;&#x606F;",
         offset: "auto",
         area: "auto",
         closeBtn: 1,
